@@ -5,3 +5,5 @@ As a consultant for the New York City Tourism Board, our objective is to analyze
 This project aims to support the tourism board in making data-driven decisions for promoting specific neighborhoods and Airbnb listing types to attract more visitors.
 
 To perform this analysis, the New York City Airbnb Open Data dataset from Kaggle was selected as the primary data source.
+
+https://public.tableau.com/app/profile/muna.kharel/viz/AB_NYC_project/AirbnbListingsinNewYorkCity?publish=yes
